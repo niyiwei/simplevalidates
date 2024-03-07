@@ -1,0 +1,22 @@
+{
+  "name": "simplevalidates",
+  "version": "1.0.0",
+  "description": "some tools for validate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tools",
+    "validate"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niyiwei/simplevalidates.git"
+  },
+  "author": "niyiwei",
+  "license": "ISC",
+  "dependencies": {
+    "smallteayaya": "^1.0.5"
+  }
+}
